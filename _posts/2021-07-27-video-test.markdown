@@ -2,7 +2,7 @@
 layout: post
 title:  "my test of jekyll"
 date:   2021-07-2 720:08:19 +0800
-categories: jekyll update
+categories: video
 ---
 ### [我的头条](https://www.ixigua.com/home/2462542296257965)<br>
 ### [我的bliliblili](https://space.bilibili.com/1016135977)<br>
